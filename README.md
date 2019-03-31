@@ -19,7 +19,7 @@ El proyecto es mantenido por [Martin Raifer](https://wiki.openstreetmap.org/wiki
 
 * [`Ver consulta`](https://overpass-turbo.eu/s/w5e) **=>** Posibles centro de pagos sin etiqueta o con etiqueta errónea.
 
-* [`Ver consulta`](https://overpass-turbo.eu/s/Hki) **=>** Valores con «,» (como separador) en lugar de «;» y otros con «_».
+* [`Ver consulta`](https://overpass-turbo.eu/s/Hki) **=>** Valores con «,» (como separador) en lugar de «;» y otros con «_». ([Alternativa](https://overpass-turbo.eu/s/HxQ))
 
 * [`Ver consulta`](https://overpass-turbo.eu/s/Hkj) **=>** Calles o PDI que contienen «S/N», «S/D» o «Sin nombre» en «name» o «addr:*».
 
