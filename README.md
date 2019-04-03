@@ -28,3 +28,5 @@ El proyecto es mantenido por [Martin Raifer](https://wiki.openstreetmap.org/wiki
 * [`Ver consulta`](https://overpass-turbo.eu/s/Hkl) **=>** Extraer datos de provincia para crear mapa con «OsmAnd Map Creator».
 
 * [`Ver consulta`](https://overpass-turbo.eu/s/Hkp) **=>** Encontrar nombres de calles abreviados o mal escritos.
+* [`Ver consulta`](http://overpass-turbo.eu/s/HEm) **=>** Multipolígonos en Córdoba que son municipios y no tienen admin_level.
+* [`Ver consulta`](http://overpass-turbo.eu/s/HEn) **=>** Multipolígonos en Córdoba que son municipios y no tienen admin_level.
